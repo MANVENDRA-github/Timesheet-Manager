@@ -1,7 +1,9 @@
 Project Title: Employee Timesheet Manager
 
-Project Description: The Employee Timesheet Manager is a modern, web-based application built using Vite, TypeScript, React, Tailwind CSS, and shadcn/ui. It is designed to simplify employee time tracking and approval workflows for organizations of all sizes.
+Project Description: The Employee Timesheet Manager is a modern, web-based application built using Vite, TypeScript, React, Tailwind CSS, and shadcn/ui. It is designed to simplify employee 
+time tracking and approval workflows for organizations of all sizes.
 
+Tech Stack: Vite, TypeScript,React,Tailwind CSS and shadcn/ui.
 Key features include:
 
 1.User Authentication: Secure login/logout functionality for employees and administrators.
