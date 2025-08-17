@@ -4,6 +4,8 @@ Project Description: The Employee Timesheet Manager is a modern, web-based appli
 time tracking and approval workflows for organizations of all sizes.
 
 Tech Stack: Vite, TypeScript,React,Tailwind CSS and shadcn/ui.
+
+<br>
 Key features include:
 
 1.User Authentication: Secure login/logout functionality for employees and administrators.
