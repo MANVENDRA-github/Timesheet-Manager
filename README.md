@@ -25,3 +25,4 @@ The project focuses on usability, performance, and maintainability, making it a 
 Future Plans:
 <br>
 1.Make a task organizer
+<br>
