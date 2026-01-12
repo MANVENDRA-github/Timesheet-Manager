@@ -22,7 +22,7 @@ Key features include:
 
 The project focuses on usability, performance, and maintainability, making it a scalable solution for digital time tracking.
 
-Future Plans:
+
 <br>
-1.Make a task organizer
+
 <br>
