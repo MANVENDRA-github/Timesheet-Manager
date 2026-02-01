@@ -23,6 +23,6 @@ Key features include:
 The project focuses on usability, performance, and maintainability, making it a scalable solution for digital time tracking.
 
 
-<br>
+<
 
 
