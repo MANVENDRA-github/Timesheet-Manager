@@ -21,3 +21,4 @@ Key features include:
 6.Mobile-Responsive Design: Built with Tailwind CSS, the UI is optimized for all screen sizes, ensuring a smooth experience on desktops, tablets, and smartphones.
 <br>
 The project focuses on usability, performance, and maintainability, making it a scalable solution for digital time tracking
+<br>
