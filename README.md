@@ -18,6 +18,6 @@ Key features include:
 5.Reporting & Exporting: Users can generate summary reports by employee or date range, with export options for CSV or PDF.
 
 6.Mobile-Responsive Design: Built with Tailwind CSS, the UI is optimized for all screen sizes, ensuring a smooth experience on desktops, tablets, and smartphones.
-<br>
+
 The project focuses on usability, performance, and maintainability, making it a scalable solution for digital time tracking
 
